@@ -19,8 +19,8 @@ The source data stores students, courses, grades, and semester results in one wi
 ```
 .
 ├── dataset/
-│   ├── dataset asli        # original dataset
-│   └── dataset 3nf         # normalized tables (3NF)
+│   ├── raw_data.csv        # original dataset
+│   └── 3nf Tables         # normalized tables (3NF)
 ├── ERD.jpg           # Entity Relationship Diagram
 ├── Laporan AOL DATABASE.docx # Full project report 
 └── AOLDatabase.sql              # SQL schema + queries
