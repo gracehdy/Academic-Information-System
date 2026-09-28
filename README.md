@@ -1,4 +1,4 @@
-# Academic Database Normalization (UNF → 3NF/BCNF)
+# Academic Information System
 
 A database design project that takes a raw, flat academic dataset and normalizes it step by step into a clean relational schema, then implements and tests it in MySQL. Aligned with **SDG 4 (Quality Education)**.
 
