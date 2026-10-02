@@ -30,7 +30,7 @@ The source data stores students, courses, grades, and semester results in one wi
 
 - **Source:** *College Exam Result Dataset* (Kaggle)
 - **Content:** B.Tech (branch AL) Semester 4 results, June 2025
-- **Size:** 77 rows × 17 columns
+- **Size:** 60 rows × 15 columns
 - **Attribute groups:**
   - Student identity: `name`, `roll no`, `program`, `branch`, `semester`, `status`, `session`
   - Course results: `AL401` – `AL406`
